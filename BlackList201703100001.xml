@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimpleBlack>
+  <Version VersionId="201004260001" VersionDate="20100426131336"/>
+  <CardType>
+    <CardTypeInfo CardType="01" CardTypeName="01羊城通"/>
+    <CardTypeInfo CardType="02" CardTypeName="02一卡通">yangxt</CardTypeInfo>
+  </CardType>
+</SimpleBlack>
